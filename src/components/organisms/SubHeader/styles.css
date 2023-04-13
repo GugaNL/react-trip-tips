@@ -1,0 +1,10 @@
+.content-icon {
+    text-decoration: none;
+    color: #585757;
+    margin: 2%;
+    text-align: center;
+}
+
+.content-icon:hover {
+    color: black;
+}

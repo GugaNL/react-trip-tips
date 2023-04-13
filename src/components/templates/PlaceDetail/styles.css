@@ -1,0 +1,29 @@
+.main-image {
+    max-height: 50vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+.small-image {
+    height: 140px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.table-result {
+    font-weight: bold;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table-result td, .table-result th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.table-result th  {
+    padding: 12px 0;
+    text-align: center;
+    color: white;
+    background-color: darkgrey;
+}

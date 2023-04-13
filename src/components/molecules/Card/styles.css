@@ -1,0 +1,13 @@
+.card-container {
+    width: 18rem;
+}
+
+.image-card {
+    height: 30vh;
+    object-fit: cover;
+}
+
+.router-link-card {
+    text-decoration: none;
+    color: black;
+}
